@@ -321,8 +321,7 @@ WS & gRPC : Location 🇩🇪
 
 مناسب برای شبکه های 💩🔵💜🔵🟡🔵
 
-◀️ همه اپراتورها بجز همراه اول:
-
+◀️ همه اپراتورها بجز 
 vless://-VPNCUSTOMIZE-@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=gr-V2rayng.vpncustomize.com#%F0%9F%87%A9%F0%9F%87%AA+%40ShadowSocks_S
 
 ◀️ فقط همراه اول:
