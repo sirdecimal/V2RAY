@@ -1,3 +1,21 @@
+
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVGMxTURRMg==@uk1.ssproxy.xyz:8388#SSHMAX-UK1_exp29Feb24
+
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVExWTJNeQ==@fr1.ssproxy.xyz:8388#SSHMAX-FR1_exp29Feb24
+
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV1UwTUdJMA==@ca1.ssproxy.xyz:8388#SSHMAX-CA1_exp29Feb24
+
+
+
+
+
+
 mxbnBot:
 ⚜ کانفیگ های جدید مختص تمام اپراتور ها 🛜
 
