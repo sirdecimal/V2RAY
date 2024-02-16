@@ -728,34 +728,6 @@ Netherlands x6⚓
 ➖➖➖➖➖➖➖
 🇳🇱⚓2375
 
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@163.172.210.138:2375#%F0%9F%87%B3%F0%9F%87%B175%40shadowsockskeys
-
-➖➖➖➖➖➖➖
-🇳🇱⚓2376
-
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@163.172.210.138:2376#%F0%9F%87%B3%F0%9F%87%B176%40shadowsockskeys
-
-➖➖➖➖➖➖➖
-🇳🇱⚓3306
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@163.172.210.138:3306#%F0%9F%87%B3%F0%9F%87%B106%40shadowsockskeys
-
-➖➖➖➖➖➖➖
-🇳🇱⚓3389
-
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@163.172.210.138:3389#%F0%9F%87%B3%F0%9F%87%B189%40shadowsockskeys
-
-➖➖➖➖➖➖➖
-🇳🇱⚓4444
-
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@163.172.210.138:4444#%F0%9F%87%B3%F0%9F%87%B144%40shadowsockskeys
-
-➖➖➖➖➖➖➖
-🇳🇱⚓5000
-
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@163.172.210.138:5000#%F0%9F%87%B3%F0%9F%87%B10%40shadowsockskeys
-
-➖➖➖➖➖➖➖
-✅@shadowsockskeys
 
 V2rayNG | Vless | Vmess | Trojan | shadoweocks |:
 Finland 🇫🇮 ♾ ( 💩🔵)
@@ -766,40 +738,7 @@ vless://a2659e1c-3501-45f3-9f8d-d759795ae320@blog.marketcovid19.info:8080?path=%
 ❗️10 ثانیه طول می‌کشه وصل بشه 
 
 ℡
-💻Channel † Group
-
-Germany 🇩🇪♾ ( 💩🔵)
-
-
-vless://e2575c61-c09e-4681-88f3-f78d64533690@172.104.151.61:8080?path=%2Fv2ray-vpn_ir&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AATelegram+%7C+%40V2ray_vpn_ir
-
-
-℡
-💻Channel † Group
-
-V2rayNG کانفیگ فیلترشکن:
-✅ سرویس اینترنت‌آزاد رایگان اختصاصی؛
-مناسب‌برای تمامی اپراتـــــــــورهای ایرانی
-
-vless://SVNTEAMs@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=SvnTeam-V2rayNew-One.SnappFoodi.Com#SvnTeam🇩🇪MTN
-vless://SVNTEAMs@mtn.VPNPROSEC.com:8080/?type=ws&path=%2F%3Fed%3D2048&host=svnteam-V2raynew-One.列列男事的事列上赛男.com&security=none#SvnTeam🇩🇪MCI
-vless://SVNTEAMs@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com#SvnTeam🇸🇪MTN
-vless://SVNTEAMs@mtn.VPNPROSEC.com:8080/?type=ws&path=%2F%3Fed%3D2048&host=svnteam-V2raynew-two.列列男事的事列上赛男.com&security=none#SvnTeam🇸🇪MCI
-vless://SVNTEAMs@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=SvnTeam-V2rayNew-Three.SnappFoodi.Com#SvnTeam🇵🇱MTN
-vless://SVNTEAMs@mtn.VPNPROSEC.com:8080/?type=ws&path=%2F%3Fed%3D2048&host=svnteam-V2raynew-three.列列男事的事列上赛男.com&security=none#SvnTeam🇵🇱MCI
-
-برای آموزش اتصال سنجاق چنلُ چک کنید
-اینترنت‌آزاد حق همه‌ی مردم ایران است 🇮🇷
-
-✅ سرویس اینترنت‌آزاد رایگان اختصاصی؛
-مناسب‌برای تمامی اپراتـــــــــورهای ایرانی
-
-vless://SVNTEAM@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=SvnTeam-V2rayNew-One.SnappFoodi.Com#SvnTeam🇩🇪MTN
-vless://SVNTEAM@mtn.VPNPROSEC.com:8080/?type=ws&path=%2F%3Fed%3D2048&host=svnteam-V2raynew-One.列列男事的事列上赛男.com&security=none#SvnTeam🇩🇪MCI
-vless://SVNTEAM@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com#SvnTeam🇸🇪MTN
-vless://SVNTEAM@mtn.VPNPROSEC.com:8080/?type=ws&path=%2F%3Fed%3D2048&host=svnteam-V2raynew-two.列列男事的事列上赛男.com&security=none#SvnTeam🇸🇪MCI
-vless://SVNTEAM@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=SvnTeam-V2rayNew-Three.SnappFoodi.Com#SvnTeam🇵🇱MTN
-vless://SVNTEAM@mtn.VPNPROSEC.com:8080/?type=ws&path=%2F%3Fed%3D2048&host=svnteam-V2raynew-three.列列男事的事列上赛男.com&security=none#SvnTeam🇵🇱MCI
+com&security=none#SvnTeam🇵🇱MCI
 
 برای آموزش اتصال سنجاق چنلُ چک کنید
 اینترنت‌آزاد حق همه‌ی مردم ایران است 🇮🇷
