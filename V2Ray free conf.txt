@@ -3,10 +3,72 @@
 
 🌍 location :  🇩🇪  🇫🇮  🇬🇧  🇳🇱 🇫🇷
 
-هَمه اُپراتور 💩🔵🔵💜🔵🟡
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.51.138.234:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮هَمه اُپراتور 💩🔵🔵💜🔵🟡
 
+➖➖ 🆕 ➖➖ 🆓 Config ✅ Applicable in:
 
+🔵 FoXray   🤍 V2rayNg
 
+⚫️ V2Box    🤍 NapsternetV
+
+🚰 در مصرف آب صرفه جویی کنیم. 
+🔄 جهت استفاده از کدهای جدید ؛ قبل از اتصال حتما نرم افزار رو آپدیت کنید .
+✔️سرور جدید برای #V2ray:
+
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#%40V2rayNGVPN
+
+⭐️ آموزش اندروید | آموزش ایفون
+🔵@v2rayngvpn
+
+📌 با یک ضربه روی کانفیگ ها همگی کپی میشوند.
+
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#Irancell+300+%28%40Outline_Vpn%29
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@for-irancell.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#Irancell+301+%28%40Outline_Vpn%29
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@oirancell.outline-vpn.cloud:80?path=Path%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#Irancell+302+%28%40Outline_Vpn%29
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@oirancell.outline-vpn.cloud:80?path=Path%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#Irancell+303+%28%40Outline_Vpn%29
+vless://416339cf-dadd-4831-987b-80f8434d2ebe@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=ty1.livingspringonline.com#Irancell+304+%28%40Outline_Vpn%29
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#Irancell+305+%28%40Outline_Vpn%29
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#Irancell+306+%28%40Outline_Vpn%29
+vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=%2F&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#Irancell+307+%28%40Outline_Vpn%29
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=%2Fparadise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=chrome&type=ws&sni=tjsre.ttvoffi.info#Irancell+308+%28%40Outline_Vpn%29
+
+⚙️ بدون توجه به پینگ متصل شوید .
+
+💬  آموزش کامل اتصال به سرور ها
+
+🌐  کانال پروکسی تلگرام کلیک کنید 
+
+⭐️✨ جهت دریافت اشتراک اختصاصی VIP بدون قطعی کلیک کنید .
+
+🕯  عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.
+
+🔵 @Outline_Vpn
+🔵 @Outline_Vpn_Qrcode
+V2ray | Vmess | Trojan | Vless:
+TROJAN 🇨🇵 (S116) TCP
+trojan://telegram-id-privatevpns@13.37.114.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
+ 📚آموزش استفاده از سرورها
+🌐 @PrivateVPNs
+
+TROJAN 🇬🇧 (S117) TCP
+trojan://telegram-id-privatevpns@13.41.47.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
+ 📚آموزش استفاده از سرورها
+🌐 @PrivateVPNs
+
+TROJAN 🇬🇧 (S118) TCP
+trojan://telegram-id-privatevpns@18.135.113.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+ 📚آموزش استفاده از سرورها
+🌐 @PrivateVPNs
+
+TROJAN 🇨🇮 (S119) TCP
+trojan://telegram-id-privatevpns@108.128.247.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+ 📚آموزش استفاده از سرورها
+🌐 @PrivateVPNs
+
+TROJAN 🇨🇮 (S120) TCP
+trojan://telegram-id-privatevpns@52.48.54.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S120)🇨🇮t.me/PrivateVPNs
+ 📚آموزش استفاده از سرورها
+🌐 @PrivateVPNs
 
 *VIP SERVER🦠*
 
