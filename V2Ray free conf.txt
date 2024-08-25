@@ -66,4 +66,4 @@ vless://f408696c-cdbe-49a1-90e9-ab602003315c@199.232.169.135:80?path=%2FMinoVpnC
 vless://77aa2623-e6aa-4997-b829-d83a963a0581@172.67.174.202:2052?path=%2F&security=none&encryption=none&host=blog-free.rubika.ir.bale.com.igap.net.zcx---cplus.hhtml.nice.hg.newbalace.com.panel.TelActive.Net.&type=ws#%F0%9F%A7%BF69%40oneclickvpnkeys
 trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.196.20:443?path=%2FQ177OZ8bzrxRWBtLTlTL&security=tls&host=hdfy4c6.freelines.net&type=ws&sni=hdfy4c6.freelines.net#%40V2rayNGVPN
 vless://214db798-c8ab-4dcb-8f2d-345a75073f2f@www.speedtest.net:80?path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#%40melov2ray-%F0%9F%87%A9%F0%9F%87%AA
-vless://214db798-c8ab-4dcb-8f2d-345a75073f2f@zula.ir:80?path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&
+vless://214db798-c8ab-4dcb-8f2d-345a75073f2f@zula.ir:80?path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none& 
